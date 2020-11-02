@@ -1,0 +1,371 @@
+D:\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\Dal.dll.config
+D:\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\Dal.dll
+D:\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\Dal.pdb
+D:\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\EntityFramework.dll
+D:\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+D:\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\EntityFramework.xml
+D:\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+D:\פ-ר-ו-י-ק-ט\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+D:\פ-ר-ו-י-ק-ט\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+D:\פ-ר-ו-י-ק-ט\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+D:\פ-ר-ו-י-ק-ט\ShopWay\Dal\obj\Debug\Dal.dll
+D:\פ-ר-ו-י-ק-ט\ShopWay\Dal\obj\Debug\Dal.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\Dal.dll.config
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\Dal.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\Dal.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\EntityFramework.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\EntityFramework.xml
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\Dal\obj\Debug\Dal.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\Dal\obj\Debug\Dal.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\Dal.dll.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\Dal.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\Dal.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\EntityFramework.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\EntityFramework.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\Dal\obj\Debug\Dal.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\Dal\obj\Debug\Dal.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\Dal\bin\Debug\Dal.dll.config
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\Dal\bin\Debug\Dal.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\Dal\bin\Debug\Dal.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\Dal\bin\Debug\EntityFramework.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\Dal\bin\Debug\EntityFramework.xml
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\Dal\obj\Debug\Dal.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\Dal\obj\Debug\Dal.pdb
+F:\ShopWay\Dal\bin\Debug\Dal.dll.config
+F:\ShopWay\Dal\bin\Debug\Dal.dll
+F:\ShopWay\Dal\bin\Debug\Dal.pdb
+F:\ShopWay\Dal\bin\Debug\EntityFramework.dll
+F:\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+F:\ShopWay\Dal\bin\Debug\EntityFramework.xml
+F:\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+F:\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+F:\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+F:\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+F:\ShopWay\Dal\obj\Debug\Dal.dll
+F:\ShopWay\Dal\obj\Debug\Dal.pdb
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\Dal.dll.config
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\Dal.dll
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\Dal.pdb
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\EntityFramework.dll
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\EntityFramework.xml
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\Dal\obj\Debug\Dal.dll
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\Dal\obj\Debug\Dal.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\Dal\bin\Debug\Dal.dll.config
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\Dal\bin\Debug\Dal.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\Dal\bin\Debug\Dal.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\Dal\bin\Debug\EntityFramework.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\Dal\bin\Debug\EntityFramework.xml
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\Dal\obj\Debug\Dal.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\Dal\obj\Debug\Dal.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\Dal\bin\Debug\Dal.dll.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\Dal\bin\Debug\Dal.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\Dal\bin\Debug\Dal.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\Dal\bin\Debug\EntityFramework.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\Dal\bin\Debug\EntityFramework.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\Dal\obj\Debug\Dal.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\Dal\obj\Debug\Dal.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\4\ShopWay\Dal\bin\Debug\Dal.dll.config
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\4\ShopWay\Dal\bin\Debug\Dal.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\4\ShopWay\Dal\bin\Debug\Dal.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\4\ShopWay\Dal\bin\Debug\EntityFramework.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\4\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\4\ShopWay\Dal\bin\Debug\EntityFramework.xml
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\4\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\4\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\4\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\4\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\4\ShopWay\Dal\obj\Debug\Dal.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\4\ShopWay\Dal\obj\Debug\Dal.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\5\ShopWay\Dal\bin\Debug\Dal.dll.config
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\5\ShopWay\Dal\bin\Debug\Dal.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\5\ShopWay\Dal\bin\Debug\Dal.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\5\ShopWay\Dal\bin\Debug\EntityFramework.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\5\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\5\ShopWay\Dal\bin\Debug\EntityFramework.xml
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\5\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\5\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\5\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\5\ShopWay\Dal\obj\Debug\Dal.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\5\ShopWay\Dal\obj\Debug\Dal.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\Dal\bin\Debug\Dal.dll.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\Dal\bin\Debug\Dal.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\Dal\bin\Debug\Dal.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\Dal\bin\Debug\EntityFramework.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\Dal\bin\Debug\EntityFramework.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\Dal\obj\Debug\Dal.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\Dal\obj\Debug\Dal.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\Dal\bin\Debug\Dal.dll.config
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\Dal\bin\Debug\Dal.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\Dal\bin\Debug\Dal.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\Dal\bin\Debug\EntityFramework.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\Dal\bin\Debug\EntityFramework.xml
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\Dal\obj\Debug\Dal.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\Dal\obj\Debug\Dal.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\Dal\bin\Debug\Dal.dll.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\Dal\bin\Debug\Dal.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\Dal\bin\Debug\Dal.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\Dal\bin\Debug\EntityFramework.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\Dal\bin\Debug\EntityFramework.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\Dal\obj\Debug\Dal.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\Dal\obj\Debug\Dal.pdb
+H:\9\ShopWay\Dal\bin\Debug\Dal.dll.config
+H:\9\ShopWay\Dal\bin\Debug\Dal.dll
+H:\9\ShopWay\Dal\bin\Debug\Dal.pdb
+H:\9\ShopWay\Dal\bin\Debug\EntityFramework.dll
+H:\9\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+H:\9\ShopWay\Dal\bin\Debug\EntityFramework.xml
+H:\9\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+H:\9\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+H:\9\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+H:\9\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+H:\9\ShopWay\Dal\obj\Debug\Dal.dll
+H:\9\ShopWay\Dal\obj\Debug\Dal.pdb
+F:\גרסאות פרויקט\11 לרותי\ShopWay\Dal\bin\Debug\Dal.dll.config
+F:\גרסאות פרויקט\11 לרותי\ShopWay\Dal\bin\Debug\Dal.dll
+F:\גרסאות פרויקט\11 לרותי\ShopWay\Dal\bin\Debug\Dal.pdb
+F:\גרסאות פרויקט\11 לרותי\ShopWay\Dal\bin\Debug\EntityFramework.dll
+F:\גרסאות פרויקט\11 לרותי\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+F:\גרסאות פרויקט\11 לרותי\ShopWay\Dal\bin\Debug\EntityFramework.xml
+F:\גרסאות פרויקט\11 לרותי\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+F:\גרסאות פרויקט\11 לרותי\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+F:\גרסאות פרויקט\11 לרותי\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+F:\גרסאות פרויקט\11 לרותי\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+F:\גרסאות פרויקט\11 לרותי\ShopWay\Dal\obj\Debug\Dal.dll
+F:\גרסאות פרויקט\11 לרותי\ShopWay\Dal\obj\Debug\Dal.pdb
+F:\גרסאות פרויקט\12\ShopWay\Dal\bin\Debug\Dal.dll.config
+F:\גרסאות פרויקט\12\ShopWay\Dal\bin\Debug\Dal.dll
+F:\גרסאות פרויקט\12\ShopWay\Dal\bin\Debug\Dal.pdb
+F:\גרסאות פרויקט\12\ShopWay\Dal\bin\Debug\EntityFramework.dll
+F:\גרסאות פרויקט\12\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+F:\גרסאות פרויקט\12\ShopWay\Dal\bin\Debug\EntityFramework.xml
+F:\גרסאות פרויקט\12\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+F:\גרסאות פרויקט\12\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+F:\גרסאות פרויקט\12\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+F:\גרסאות פרויקט\12\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+F:\גרסאות פרויקט\12\ShopWay\Dal\obj\Debug\Dal.dll
+F:\גרסאות פרויקט\12\ShopWay\Dal\obj\Debug\Dal.pdb
+H:\גרסאות פרויקט\12\ShopWay\Dal\bin\Debug\Dal.dll.config
+H:\גרסאות פרויקט\12\ShopWay\Dal\bin\Debug\Dal.dll
+H:\גרסאות פרויקט\12\ShopWay\Dal\bin\Debug\Dal.pdb
+H:\גרסאות פרויקט\12\ShopWay\Dal\bin\Debug\EntityFramework.dll
+H:\גרסאות פרויקט\12\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+H:\גרסאות פרויקט\12\ShopWay\Dal\bin\Debug\EntityFramework.xml
+H:\גרסאות פרויקט\12\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+H:\גרסאות פרויקט\12\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+H:\גרסאות פרויקט\12\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+H:\גרסאות פרויקט\12\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+H:\גרסאות פרויקט\12\ShopWay\Dal\obj\Debug\Dal.dll
+H:\גרסאות פרויקט\12\ShopWay\Dal\obj\Debug\Dal.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\Dal\bin\Debug\Dal.dll.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\Dal\bin\Debug\Dal.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\Dal\bin\Debug\Dal.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\Dal\bin\Debug\EntityFramework.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\Dal\bin\Debug\EntityFramework.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\Dal\obj\Debug\Dal.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\Dal\obj\Debug\Dal.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\Dal\bin\Debug\Dal.dll.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\Dal\bin\Debug\Dal.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\Dal\bin\Debug\Dal.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\Dal\bin\Debug\EntityFramework.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\Dal\bin\Debug\EntityFramework.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\Dal\obj\Debug\Dal.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\Dal\obj\Debug\Dal.pdb
+F:\גרסאות פרויקט\14\ShopWay\Dal\bin\Debug\Dal.dll.config
+F:\גרסאות פרויקט\14\ShopWay\Dal\bin\Debug\Dal.dll
+F:\גרסאות פרויקט\14\ShopWay\Dal\bin\Debug\Dal.pdb
+F:\גרסאות פרויקט\14\ShopWay\Dal\bin\Debug\EntityFramework.dll
+F:\גרסאות פרויקט\14\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+F:\גרסאות פרויקט\14\ShopWay\Dal\bin\Debug\EntityFramework.xml
+F:\גרסאות פרויקט\14\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+F:\גרסאות פרויקט\14\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+F:\גרסאות פרויקט\14\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+F:\גרסאות פרויקט\14\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+F:\גרסאות פרויקט\14\ShopWay\Dal\obj\Debug\Dal.dll
+F:\גרסאות פרויקט\14\ShopWay\Dal\obj\Debug\Dal.pdb
+F:\גרסאות פרויקט\18\ShopWay\Dal\bin\Debug\Dal.dll.config
+F:\גרסאות פרויקט\18\ShopWay\Dal\bin\Debug\Dal.dll
+F:\גרסאות פרויקט\18\ShopWay\Dal\bin\Debug\Dal.pdb
+F:\גרסאות פרויקט\18\ShopWay\Dal\bin\Debug\EntityFramework.dll
+F:\גרסאות פרויקט\18\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+F:\גרסאות פרויקט\18\ShopWay\Dal\bin\Debug\EntityFramework.xml
+F:\גרסאות פרויקט\18\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+F:\גרסאות פרויקט\18\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+F:\גרסאות פרויקט\18\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+F:\גרסאות פרויקט\18\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+F:\גרסאות פרויקט\18\ShopWay\Dal\obj\Debug\Dal.dll
+F:\גרסאות פרויקט\18\ShopWay\Dal\obj\Debug\Dal.pdb
+G:\גרסאות פרויקט\19\ShopWay\Dal\bin\Debug\Dal.dll.config
+G:\גרסאות פרויקט\19\ShopWay\Dal\bin\Debug\Dal.dll
+G:\גרסאות פרויקט\19\ShopWay\Dal\bin\Debug\Dal.pdb
+G:\גרסאות פרויקט\19\ShopWay\Dal\bin\Debug\EntityFramework.dll
+G:\גרסאות פרויקט\19\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+G:\גרסאות פרויקט\19\ShopWay\Dal\bin\Debug\EntityFramework.xml
+G:\גרסאות פרויקט\19\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+G:\גרסאות פרויקט\19\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+G:\גרסאות פרויקט\19\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+G:\גרסאות פרויקט\19\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+G:\גרסאות פרויקט\19\ShopWay\Dal\obj\Debug\Dal.dll
+G:\גרסאות פרויקט\19\ShopWay\Dal\obj\Debug\Dal.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\Dal\bin\Debug\Dal.dll.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\Dal\bin\Debug\Dal.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\Dal\bin\Debug\Dal.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\Dal\bin\Debug\EntityFramework.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\Dal\bin\Debug\EntityFramework.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\Dal\obj\Debug\Dal.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\Dal\obj\Debug\Dal.pdb
+F:\גרסאות פרויקט\20\ShopWay\Dal\bin\Debug\Dal.dll.config
+F:\גרסאות פרויקט\20\ShopWay\Dal\bin\Debug\Dal.dll
+F:\גרסאות פרויקט\20\ShopWay\Dal\bin\Debug\Dal.pdb
+F:\גרסאות פרויקט\20\ShopWay\Dal\bin\Debug\EntityFramework.dll
+F:\גרסאות פרויקט\20\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+F:\גרסאות פרויקט\20\ShopWay\Dal\bin\Debug\EntityFramework.xml
+F:\גרסאות פרויקט\20\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+F:\גרסאות פרויקט\20\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+F:\גרסאות פרויקט\20\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+F:\גרסאות פרויקט\20\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+F:\גרסאות פרויקט\20\ShopWay\Dal\obj\Debug\Dal.dll
+F:\גרסאות פרויקט\20\ShopWay\Dal\obj\Debug\Dal.pdb
+G:\גרסאות פרויקט\20\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+G:\גרסאות פרויקט\20\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+G:\גרסאות פרויקט\20\ShopWay\Dal\obj\Debug\Dal.dll
+G:\גרסאות פרויקט\20\ShopWay\Dal\obj\Debug\Dal.pdb
+G:\גרסאות פרויקט\20\ShopWay\Dal\bin\Debug\Dal.dll.config
+G:\גרסאות פרויקט\20\ShopWay\Dal\bin\Debug\Dal.dll
+G:\גרסאות פרויקט\20\ShopWay\Dal\bin\Debug\Dal.pdb
+G:\גרסאות פרויקט\20\ShopWay\Dal\bin\Debug\EntityFramework.dll
+G:\גרסאות פרויקט\20\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+G:\גרסאות פרויקט\20\ShopWay\Dal\bin\Debug\EntityFramework.xml
+G:\גרסאות פרויקט\20\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+G:\גרסאות פרויקט\20\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\Dal\bin\Debug\Dal.dll.config
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\Dal\bin\Debug\Dal.dll
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\Dal\bin\Debug\Dal.pdb
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\Dal\bin\Debug\EntityFramework.dll
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\Dal\bin\Debug\EntityFramework.xml
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\Dal\obj\Debug\Dal.dll
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\Dal\obj\Debug\Dal.pdb
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\Dal\bin\Debug\Dal.dll.config
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\Dal\bin\Debug\Dal.dll
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\Dal\bin\Debug\Dal.pdb
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\Dal\bin\Debug\EntityFramework.dll
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\Dal\bin\Debug\EntityFramework.xml
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\Dal\obj\Debug\Dal.dll
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\Dal\obj\Debug\Dal.pdb
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\Dal\obj\Debug\Dal.dll
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\Dal\obj\Debug\Dal.pdb
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\Dal\bin\Debug\Dal.dll.config
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\Dal\bin\Debug\Dal.dll
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\Dal\bin\Debug\Dal.pdb
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\Dal\bin\Debug\EntityFramework.dll
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\Dal\bin\Debug\EntityFramework.xml
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\Dal\bin\Debug\Dal.dll.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\Dal\bin\Debug\Dal.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\Dal\bin\Debug\Dal.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\Dal\bin\Debug\EntityFramework.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\Dal\bin\Debug\EntityFramework.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\Dal\obj\Debug\Dal.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\Dal\obj\Debug\Dal.pdb
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\25 מרותי\ShopWay\Dal\bin\Debug\Dal.dll.config
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\25 מרותי\ShopWay\Dal\bin\Debug\Dal.dll
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\25 מרותי\ShopWay\Dal\bin\Debug\Dal.pdb
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\25 מרותי\ShopWay\Dal\bin\Debug\EntityFramework.dll
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\25 מרותי\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\25 מרותי\ShopWay\Dal\bin\Debug\EntityFramework.xml
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\25 מרותי\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\25 מרותי\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\25 מרותי\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\25 מרותי\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\25 מרותי\ShopWay\Dal\obj\Debug\Dal.dll
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\25 מרותי\ShopWay\Dal\obj\Debug\Dal.pdb
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\Dal\bin\Debug\Dal.dll.config
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\Dal\bin\Debug\Dal.dll
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\Dal\bin\Debug\Dal.pdb
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\Dal\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\Dal\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\Dal\obj\Debug\Dal.dll
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\Dal\obj\Debug\Dal.pdb

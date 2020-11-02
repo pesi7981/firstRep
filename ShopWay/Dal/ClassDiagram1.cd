@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dal.Connection">
+    <Position X="6.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAABAAAAAAAAkAAAAAACAAABAAAQAAgAACAA=</HashCode>
+      <FileName>Connection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dal.Getaway">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAjAAAAAICBAAAAAAAAAiAAAAA=</HashCode>
+      <FileName>Getaway.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dal.GetawayProcI_Result">
+    <Position X="8.75" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAjAAAAAIABAAAAAAAAAiAAAAA=</HashCode>
+      <FileName>GetawayProcI_Result.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dal.Shop">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAgAAAAAAACAAACAMAAACCAAAA=</HashCode>
+      <FileName>Shop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dal.Stand">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAIAAAQAAAAjACAAAICBAABAAAAAAgAAAQA=</HashCode>
+      <FileName>Stand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

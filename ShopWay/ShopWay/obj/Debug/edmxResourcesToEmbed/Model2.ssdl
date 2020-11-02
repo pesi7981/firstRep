@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ShopWayModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ConnectionGetAway">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CodeSource" Type="int" />
+    <Property Name="CodeDest" Type="int" />
+    <Property Name="Distance" Type="float" />
+    <Property Name="Nearest" Type="bit" />
+  </EntityType>
+  <EntityType Name="ConnectionStand">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CodeSource" Type="int" />
+    <Property Name="CodeDest" Type="int" />
+    <Property Name="Distance" Type="float" />
+    <Property Name="Nearest" Type="bit" />
+  </EntityType>
+  <EntityType Name="Getaway">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="X" Type="float" />
+    <Property Name="Y" Type="float" />
+    <Property Name="CodeShop" Type="int" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Barcode" Type="nvarchar" MaxLength="20" />
+    <Property Name="Shem" Type="nvarchar" MaxLength="50" />
+    <Property Name="Company" Type="nvarchar" MaxLength="20" />
+    <Property Name="weight" Type="float" />
+  </EntityType>
+  <EntityType Name="ProductShelf">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CodeProduct" Type="int" />
+    <Property Name="CodeShelf" Type="int" />
+  </EntityType>
+  <EntityType Name="ProductShop">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CodeProduct" Type="int" />
+    <Property Name="CodeShop" Type="int" />
+    <Property Name="IsExist" Type="int" />
+  </EntityType>
+  <EntityType Name="Shelf">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CodeStand" Type="int" />
+    <Property Name="Num" Type="int" />
+  </EntityType>
+  <EntityType Name="Shop">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Shem" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Stand">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Xstart" Type="float" />
+    <Property Name="Ystart" Type="float" />
+    <Property Name="Xend" Type="float" />
+    <Property Name="Yend" Type="float" />
+    <Property Name="distance" Type="float" />
+    <Property Name="CodeShop" Type="int" />
+  </EntityType>
+  <EntityType Name="Wall">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CodeShop" Type="int" />
+    <Property Name="X1" Type="float" />
+    <Property Name="Y1" Type="float" />
+    <Property Name="X2" Type="float" />
+    <Property Name="Y2" Type="float" />
+    <Property Name="X3" Type="float" />
+    <Property Name="Y3" Type="float" />
+    <Property Name="X4" Type="float" />
+    <Property Name="Y4" Type="float" />
+  </EntityType>
+  <Association Name="FK__Connectio__CodeD__5070F446">
+    <End Role="Getaway" Type="Self.Getaway" Multiplicity="0..1" />
+    <End Role="ConnectionGetAway" Type="Self.ConnectionGetAway" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Getaway">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="ConnectionGetAway">
+        <PropertyRef Name="CodeDest" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Connectio__CodeD__5441852A">
+    <End Role="Stand" Type="Self.Stand" Multiplicity="0..1" />
+    <End Role="ConnectionStand" Type="Self.ConnectionStand" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Stand">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="ConnectionStand">
+        <PropertyRef Name="CodeDest" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Connectio__CodeS__4F7CD00D">
+    <End Role="Getaway" Type="Self.Getaway" Multiplicity="0..1" />
+    <End Role="ConnectionGetAway" Type="Self.ConnectionGetAway" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Getaway">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="ConnectionGetAway">
+        <PropertyRef Name="CodeSource" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Connectio__CodeS__534D60F1">
+    <End Role="Getaway" Type="Self.Getaway" Multiplicity="0..1" />
+    <End Role="ConnectionStand" Type="Self.ConnectionStand" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Getaway">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="ConnectionStand">
+        <PropertyRef Name="CodeSource" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Getaway__CodeSho__4222D4EF">
+    <End Role="Shop" Type="Self.Shop" Multiplicity="0..1" />
+    <End Role="Getaway" Type="Self.Getaway" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Shop">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="Getaway">
+        <PropertyRef Name="CodeShop" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ProductSh__CodeP__47DBAE45">
+    <End Role="Product" Type="Self.Product" Multiplicity="0..1" />
+    <End Role="ProductShop" Type="Self.ProductShop" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="ProductShop">
+        <PropertyRef Name="CodeProduct" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ProductSh__CodeP__4BAC3F29">
+    <End Role="ProductShop" Type="Self.ProductShop" Multiplicity="0..1" />
+    <End Role="ProductShelf" Type="Self.ProductShelf" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductShop">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="ProductShelf">
+        <PropertyRef Name="CodeProduct" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ProductSh__CodeS__48CFD27E">
+    <End Role="Shop" Type="Self.Shop" Multiplicity="0..1" />
+    <End Role="ProductShop" Type="Self.ProductShop" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Shop">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="ProductShop">
+        <PropertyRef Name="CodeShop" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ProductSh__CodeS__4CA06362">
+    <End Role="Shelf" Type="Self.Shelf" Multiplicity="0..1" />
+    <End Role="ProductShelf" Type="Self.ProductShelf" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Shelf">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="ProductShelf">
+        <PropertyRef Name="CodeShelf" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Shelf__CodeStand__3F466844">
+    <End Role="Stand" Type="Self.Stand" Multiplicity="0..1" />
+    <End Role="Shelf" Type="Self.Shelf" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Stand">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="Shelf">
+        <PropertyRef Name="CodeStand" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Stand__CodeShop__3C69FB99">
+    <End Role="Shop" Type="Self.Shop" Multiplicity="0..1" />
+    <End Role="Stand" Type="Self.Stand" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Shop">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="Stand">
+        <PropertyRef Name="CodeShop" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Wall__CodeShop__44FF419A">
+    <End Role="Shop" Type="Self.Shop" Multiplicity="0..1" />
+    <End Role="Wall" Type="Self.Wall" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Shop">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="Wall">
+        <PropertyRef Name="CodeShop" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ShopWayModelStoreContainer">
+    <EntitySet Name="ConnectionGetAway" EntityType="Self.ConnectionGetAway" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ConnectionStand" EntityType="Self.ConnectionStand" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Getaway" EntityType="Self.Getaway" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Product" EntityType="Self.Product" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ProductShelf" EntityType="Self.ProductShelf" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ProductShop" EntityType="Self.ProductShop" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Shelf" EntityType="Self.Shelf" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Shop" EntityType="Self.Shop" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Stand" EntityType="Self.Stand" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Wall" EntityType="Self.Wall" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Connectio__CodeD__5070F446" Association="Self.FK__Connectio__CodeD__5070F446">
+      <End Role="Getaway" EntitySet="Getaway" />
+      <End Role="ConnectionGetAway" EntitySet="ConnectionGetAway" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Connectio__CodeD__5441852A" Association="Self.FK__Connectio__CodeD__5441852A">
+      <End Role="Stand" EntitySet="Stand" />
+      <End Role="ConnectionStand" EntitySet="ConnectionStand" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Connectio__CodeS__4F7CD00D" Association="Self.FK__Connectio__CodeS__4F7CD00D">
+      <End Role="Getaway" EntitySet="Getaway" />
+      <End Role="ConnectionGetAway" EntitySet="ConnectionGetAway" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Connectio__CodeS__534D60F1" Association="Self.FK__Connectio__CodeS__534D60F1">
+      <End Role="Getaway" EntitySet="Getaway" />
+      <End Role="ConnectionStand" EntitySet="ConnectionStand" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Getaway__CodeSho__4222D4EF" Association="Self.FK__Getaway__CodeSho__4222D4EF">
+      <End Role="Shop" EntitySet="Shop" />
+      <End Role="Getaway" EntitySet="Getaway" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ProductSh__CodeP__47DBAE45" Association="Self.FK__ProductSh__CodeP__47DBAE45">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="ProductShop" EntitySet="ProductShop" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ProductSh__CodeP__4BAC3F29" Association="Self.FK__ProductSh__CodeP__4BAC3F29">
+      <End Role="ProductShop" EntitySet="ProductShop" />
+      <End Role="ProductShelf" EntitySet="ProductShelf" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ProductSh__CodeS__48CFD27E" Association="Self.FK__ProductSh__CodeS__48CFD27E">
+      <End Role="Shop" EntitySet="Shop" />
+      <End Role="ProductShop" EntitySet="ProductShop" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ProductSh__CodeS__4CA06362" Association="Self.FK__ProductSh__CodeS__4CA06362">
+      <End Role="Shelf" EntitySet="Shelf" />
+      <End Role="ProductShelf" EntitySet="ProductShelf" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Shelf__CodeStand__3F466844" Association="Self.FK__Shelf__CodeStand__3F466844">
+      <End Role="Stand" EntitySet="Stand" />
+      <End Role="Shelf" EntitySet="Shelf" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Stand__CodeShop__3C69FB99" Association="Self.FK__Stand__CodeShop__3C69FB99">
+      <End Role="Shop" EntitySet="Shop" />
+      <End Role="Stand" EntitySet="Stand" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Wall__CodeShop__44FF419A" Association="Self.FK__Wall__CodeShop__44FF419A">
+      <End Role="Shop" EntitySet="Shop" />
+      <End Role="Wall" EntitySet="Wall" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

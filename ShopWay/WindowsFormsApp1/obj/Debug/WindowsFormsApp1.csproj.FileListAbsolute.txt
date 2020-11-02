@@ -1,0 +1,701 @@
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll.config
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+D:\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+D:\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+D:\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+D:\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+D:\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+D:\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+D:\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+F:\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+F:\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+F:\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+F:\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+F:\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+F:\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+F:\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+F:\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+F:\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+L:\שנה ב\משרד החינוך\תלמידות\פסי קשש\פ-ר-ו-י-ק-ט\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\3\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\פרויקט שלא נדפק\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\5\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+L:\שנה ב\משרד החינוך\תלמידות\רותי ברס\פ-ר-ו-י-ק-ט\גירסאות פרויקט\6\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\6\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\8 version\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\8 version\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\8 version\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\8 version\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\8 version\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\8 version\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\8 version\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\8 version\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\8 version\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\8 version\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\8 version\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\8 version\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\8 version\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\8 version\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\8 version\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\8 version\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\8 version\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\8 version\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\8 version\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\8 version\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\9\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+H:\9\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+H:\9\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\9\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\9\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\9\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\9\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\9\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\9\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\9\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\9\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+H:\9\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+H:\9\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+H:\9\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+H:\9\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+H:\9\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+H:\9\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+H:\9\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+H:\9\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+H:\9\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\גרסאות פרויקט\11 לרותי\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\גרסאות פרויקט\11 לרותי\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\גרסאות פרויקט\11 לרותי\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\גרסאות פרויקט\11 לרותי\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+F:\גרסאות פרויקט\11 לרותי\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+F:\גרסאות פרויקט\11 לרותי\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+F:\גרסאות פרויקט\11 לרותי\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+F:\גרסאות פרויקט\11 לרותי\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+F:\גרסאות פרויקט\11 לרותי\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+F:\גרסאות פרויקט\11 לרותי\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+F:\גרסאות פרויקט\11 לרותי\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+F:\גרסאות פרויקט\11 לרותי\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+F:\גרסאות פרויקט\11 לרותי\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\גרסאות פרויקט\11 לרותי\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\גרסאות פרויקט\11 לרותי\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\גרסאות פרויקט\11 לרותי\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\גרסאות פרויקט\11 לרותי\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\גרסאות פרויקט\11 לרותי\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\גרסאות פרויקט\11 לרותי\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\גרסאות פרויקט\11 לרותי\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+F:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+F:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+F:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+F:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+F:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+F:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+F:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+F:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+F:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+H:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+H:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+H:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+H:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+H:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+H:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+H:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+H:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+H:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+H:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+H:\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\12\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+H:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+H:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+H:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+H:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+H:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+H:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+H:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+H:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+H:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+H:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+H:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+H:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+H:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+G:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+G:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+G:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+G:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+G:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+G:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+G:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+G:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+G:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+G:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+F:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+F:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+F:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+F:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+F:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+F:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+F:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+F:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+F:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\גרסאות פרויקט\14\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\גרסאות פרויקט\18\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\גרסאות פרויקט\18\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\גרסאות פרויקט\18\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\גרסאות פרויקט\18\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+F:\גרסאות פרויקט\18\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+F:\גרסאות פרויקט\18\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+F:\גרסאות פרויקט\18\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+F:\גרסאות פרויקט\18\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+F:\גרסאות פרויקט\18\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+F:\גרסאות פרויקט\18\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+F:\גרסאות פרויקט\18\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+F:\גרסאות פרויקט\18\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+F:\גרסאות פרויקט\18\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\גרסאות פרויקט\18\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\גרסאות פרויקט\18\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\גרסאות פרויקט\18\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\גרסאות פרויקט\18\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\גרסאות פרויקט\18\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\גרסאות פרויקט\18\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\גרסאות פרויקט\18\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+G:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+G:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+G:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+G:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+G:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+G:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+G:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+G:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+G:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+G:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+F:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+F:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+F:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+F:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+F:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+F:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+F:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+F:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+F:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\גרסאות פרויקט\19\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+F:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+F:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+F:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+F:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+F:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+F:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+F:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+F:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+F:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+G:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+G:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+G:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+G:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+G:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+G:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+G:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+G:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+G:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+G:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+H:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+H:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+H:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+H:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+H:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+H:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+H:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+H:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+H:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+H:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+H:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+H:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\גרסאות פרויקט\20\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\פסי תכנות\גרסאות פרויקט\21\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+E:\פסי תכנות\גרסאות פרויקט\22\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\פסי תכנות\גרסאות פרויקט\24\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\פסי תכנות\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\פסי תכנות\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\פסי תכנות\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\פסי תכנות\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+E:\פסי תכנות\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+E:\פסי תכנות\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+E:\פסי תכנות\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+E:\פסי תכנות\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+E:\פסי תכנות\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+E:\פסי תכנות\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+E:\פסי תכנות\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+E:\פסי תכנות\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+E:\פסי תכנות\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\פסי תכנות\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\פסי תכנות\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\פסי תכנות\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\פסי תכנות\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\פסי תכנות\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\פסי תכנות\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\פסי תכנות\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\25פרויקט מוכן עם נקודות עצירה\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\פרויקט פסי\28\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\פרויקט פסי\28עובד מי שרוצה לשנות שיפתח גרסה חדשה\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Desktop\פרויקט פסי\28עובד מי שרוצה לשנות שיפתח גרסה חדשה\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\פרויקט פסי\28עובד מי שרוצה לשנות שיפתח גרסה חדשה\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\פרויקט פסי\28עובד מי שרוצה לשנות שיפתח גרסה חדשה\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+C:\Users\Admin\Desktop\פרויקט פסי\28עובד מי שרוצה לשנות שיפתח גרסה חדשה\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+C:\Users\Admin\Desktop\פרויקט פסי\28עובד מי שרוצה לשנות שיפתח גרסה חדשה\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\פרויקט פסי\28עובד מי שרוצה לשנות שיפתח גרסה חדשה\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\פרויקט פסי\28עובד מי שרוצה לשנות שיפתח גרסה חדשה\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+C:\Users\Admin\Desktop\פרויקט פסי\28עובד מי שרוצה לשנות שיפתח גרסה חדשה\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+C:\Users\Admin\Desktop\פרויקט פסי\28עובד מי שרוצה לשנות שיפתח גרסה חדשה\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+C:\Users\Admin\Desktop\פרויקט פסי\28עובד מי שרוצה לשנות שיפתח גרסה חדשה\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\פרויקט פסי\28עובד מי שרוצה לשנות שיפתח גרסה חדשה\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\פרויקט פסי\28עובד מי שרוצה לשנות שיפתח גרסה חדשה\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\פרויקט פסי\28עובד מי שרוצה לשנות שיפתח גרסה חדשה\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Admin\Desktop\פרויקט פסי\28עובד מי שרוצה לשנות שיפתח גרסה חדשה\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Desktop\פרויקט פסי\28עובד מי שרוצה לשנות שיפתח גרסה חדשה\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\פרויקט פסי\28עובד מי שרוצה לשנות שיפתח גרסה חדשה\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\פרויקט פסי\28עובד מי שרוצה לשנות שיפתח גרסה חדשה\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Admin\Desktop\פרויקט פסי\28עובד מי שרוצה לשנות שיפתח גרסה חדשה\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\פרויקט פסי\28עובד מי שרוצה לשנות שיפתח גרסה חדשה\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WindowsFormsApp1\bin\Debug\Bll.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WindowsFormsApp1\bin\Debug\Bll.pdb
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WindowsFormsApp1\bin\Debug\Dal.pdb
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WindowsFormsApp1\bin\Debug\Dal.dll.config
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

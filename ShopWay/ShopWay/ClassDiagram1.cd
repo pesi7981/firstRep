@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ShopWay.Controllers.shopController">
+    <Position X="1.5" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAIIAAAAAAAAAAAAACAAAAAAABAQAAAAAAAA=</HashCode>
+      <FileName>Controllers\shopController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopWay.Controllers.WayController">
+    <Position X="7.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAABAAAAAAAAAAAEAAAAAAACAAAAAAAg=</HashCode>
+      <FileName>Controllers\WayController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopWay.Controllers.productController">
+    <Position X="4.25" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAggAACAEAAAABAAAAAAAQAAg=</HashCode>
+      <FileName>Controllers\productController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

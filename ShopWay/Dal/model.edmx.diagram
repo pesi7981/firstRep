@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4e0b5d4e8cdf45ea88f4d1069b2fef34" Name="Diagram1">
+        <EntityTypeShape EntityType="ShopWayModel.Shop" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopWayModel.Product" Width="1.5" PointX="3.375" PointY="0.75" />
+        <EntityTypeShape EntityType="ShopWayModel.ConnectionGetAway" Width="1.5" PointX="5.25" PointY="18.5" />
+        <EntityTypeShape EntityType="ShopWayModel.ConnectionStand" Width="1.5" PointX="5.25" PointY="11.625" />
+        <EntityTypeShape EntityType="ShopWayModel.Getaway" Width="1.5" PointX="3" PointY="15.25" />
+        <EntityTypeShape EntityType="ShopWayModel.ProductShelf" Width="1.5" PointX="7.5" PointY="4.5" />
+        <EntityTypeShape EntityType="ShopWayModel.ProductShop" Width="1.5" PointX="5.625" PointY="0.75" />
+        <EntityTypeShape EntityType="ShopWayModel.Shelf" Width="1.5" PointX="5.25" PointY="8.125" />
+        <EntityTypeShape EntityType="ShopWayModel.Stand" Width="1.5" PointX="3" PointY="7.625" />
+        <EntityTypeShape EntityType="ShopWayModel.Wall" Width="1.5" PointX="3" PointY="11.375" />
+        <AssociationConnector Association="ShopWayModel.FK__Connectio__CodeD__5070F446" />
+        <AssociationConnector Association="ShopWayModel.FK__Connectio__CodeS__4F7CD00D" />
+        <AssociationConnector Association="ShopWayModel.FK__Connectio__CodeD__5441852A" />
+        <AssociationConnector Association="ShopWayModel.FK__Connectio__CodeS__534D60F1" />
+        <AssociationConnector Association="ShopWayModel.FK__Getaway__CodeSho__4222D4EF" />
+        <AssociationConnector Association="ShopWayModel.FK__ProductSh__CodeP__47DBAE45" />
+        <AssociationConnector Association="ShopWayModel.FK__ProductSh__CodeP__4BAC3F29" />
+        <AssociationConnector Association="ShopWayModel.FK__ProductSh__CodeS__4CA06362" />
+        <AssociationConnector Association="ShopWayModel.FK__ProductSh__CodeS__48CFD27E" />
+        <AssociationConnector Association="ShopWayModel.FK__Shelf__CodeStand__3F466844" />
+        <AssociationConnector Association="ShopWayModel.FK__Stand__CodeShop__3C69FB99" />
+        <AssociationConnector Association="ShopWayModel.FK__Wall__CodeShop__44FF419A" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

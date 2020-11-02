@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e5407947ed414f4a9c6e266cc57f2f9d" Name="Diagram1" ZoomLevel="118">
+        <EntityTypeShape EntityType="ShopWayModel.Alias" Width="1.5" PointX="12.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopWayModel.Connection" Width="1.5" PointX="5.875" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopWayModel.Getaway" Width="1.5" PointX="5.875" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopWayModel.Product" Width="1.5" PointX="7.5" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopWayModel.ProductAlia" Width="1.5" PointX="9.25" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopWayModel.ProductShelf" Width="1.5" PointX="9.375" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopWayModel.Shelf" Width="1.5" PointX="11.125" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopWayModel.Shop" Width="1.5" PointX="7.625" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopWayModel.Stand" Width="1.5" PointX="11" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopWayModel.Wall" Width="1.5" PointX="12.75" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShopWayModel.ProductShop" Width="1.5" PointX="14.5" PointY="2.625" IsExpanded="true" />
+        <AssociationConnector Association="ShopWayModel.FK__Alias__Parent__398D8EEE" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopWayModel.FK__Product__CodeAli__3C69FB99" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopWayModel.FK__ProductAl__CodeA__534D60F1" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopWayModel.FK__Shelf__CodeAlias__440B1D61" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopWayModel.FK__Stand__CodeAlias__403A8C7D" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopWayModel.FK__Wall__CodeAlias__4BAC3F29" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopWayModel.FK__Connectio__CodeS__5629CD9C" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopWayModel.FK__Connectio__CodeS__571DF1D5" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopWayModel.FK__Getaway__CodeSho__46E78A0C" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopWayModel.FK__Shop__CodeGetawa__47DBAE45" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopWayModel.FK__ProductAl__CodeP__52593CB8" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopWayModel.FK__ProductSh__CodeP__4E88ABD4" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopWayModel.FK__ProductSh__CodeS__4F7CD00D" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopWayModel.FK__Shelf__CodeStand__4316F928" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopWayModel.FK__Stand__CodeShop__3F466844" ManuallyRouted="false" />
+        <AssociationConnector Association="ShopWayModel.FK__Wall__CodeShop__4AB81AF0" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

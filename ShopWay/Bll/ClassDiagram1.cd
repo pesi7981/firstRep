@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Bll.Logic.AdjListNode" Collapsed="true">
+    <Position X="0.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAgAAAAAAIAAAA=</HashCode>
+      <FileName>Logic\DijstraFunction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.Logic.AdjList" Collapsed="true">
+    <Position X="0.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Logic\DijstraFunction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.Logic.Graph" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAgAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Logic\DijstraFunction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.Logic.MinHeapNode" Collapsed="true">
+    <Position X="0.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Logic\DijstraFunction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.Logic.MinHeap" Collapsed="true">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAACAAAAAAAACIoAAIAAAAAAAAAAEAAAAAAAQAA=</HashCode>
+      <FileName>Logic\DijstraFunction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.Logic.DijkstraFunction">
+    <Position X="0.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAIAAAAAAAAAAg=</HashCode>
+      <FileName>Logic\DijstraFunction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.Logic.KeyArea" Collapsed="true">
+    <Position X="6.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>Logic\Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.Logic.Goal" Collapsed="true">
+    <Position X="4.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAQAAAAAAAgAAAAAAAAAAABAAAAAI=</HashCode>
+      <FileName>Logic\Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.Logic.Area" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAgAQAAAACAAAAAAQAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Classes.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Bll.Logic.ExtraAlias" Collapsed="true">
+    <Position X="10" Y="3.75" Width="1.5" />
+    <InheritanceLine Type="Bll.DTO.dtoAlias" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="15.188" Y="0.5" />
+        <Point X="15.188" Y="0.438" />
+        <Point X="12.175" Y="0.438" />
+        <Point X="12.175" Y="4.125" />
+        <Point X="11.5" Y="4.125" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAQAAAAAAAAAAABAAAAAE=</HashCode>
+      <FileName>Logic\Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.Logic.TravelComputer">
+    <Position X="4" Y="0.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAIAACAAAAACAAAAAgBAAAAABQAAAAAgAgQAAAA=</HashCode>
+      <FileName>Logic\TravelComputer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.Logic.TspFunctions">
+    <Position X="9.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAgAAAAAAAAAKAAAAAAAASAAAAIAAAA=</HashCode>
+      <FileName>Logic\TspFunftion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.Logic.Point" Collapsed="true">
+    <Position X="6.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Logic\Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.Logic.Matrix" Collapsed="true">
+    <Position X="4.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.Logic.Cell" Collapsed="true">
+    <Position X="4.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAIAEAAAAAAAA=</HashCode>
+      <FileName>Logic\Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.Logic.SPGetaway" Collapsed="true">
+    <Position X="4.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAIAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.Logic.UtilitiesFunctions">
+    <Position X="1" Y="5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAABAAAAAIAAAAAAAAgIQAAIAAAAQAAAgQAgA=</HashCode>
+      <FileName>Logic\UtilitiesFunctions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.Utilities.Converts">
+    <Position X="12.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8BIUAEAAAaALigAAIMeAyQoRgAAEQAkAAgQCAAAAIEQ=</HashCode>
+      <FileName>Utilities\Converts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.Utilities.GeneralDB">
+    <Position X="9.25" Y="6.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\GeneralDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.DTO.dtoAlias" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAgAAgQAAAQAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>DTO\dtoAlias.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.DTO.dtoConnection" Collapsed="true">
+    <Position X="16.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAABAAAAAAAAkAAAAAAAAAABAAgQAAgAAAAA=</HashCode>
+      <FileName>DTO\dtoConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.DTO.dtoGetaway" Collapsed="true">
+    <Position X="14.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAEAAAAAAAAAAAAAgAQAAAACAAAAAAAAAAiAAAAA=</HashCode>
+      <FileName>DTO\dtoGetaway.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Bll.DTO.dtoProduct" Collapsed="true">
+    <Position X="14.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAEAAAAMgAAAAAAAgAAAAACAAAAAAAAIABAAAAAA=</HashCode>
+      <FileName>DTO\dtoProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.DTO.dtoProductAlias" Collapsed="true">
+    <Position X="14.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAAIAAAAAAgAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DTO\dtoProductAlias.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.DTO.dtoProductShelf" Collapsed="true">
+    <Position X="14.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAgAiAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DTO\dtoProductShelf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.DTO.dtoProductShop" Collapsed="true">
+    <Position X="14.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAAAAAAAAAgAgCgAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>DTO\dtoProductShop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.DTO.dtoShelf" Collapsed="true">
+    <Position X="14.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAEAAAAIAACAAAAAgAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>DTO\dtoShelf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.DTO.dtoShop">
+    <Position X="16" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAECAABAAAAAACAAhAAAAAAACAAACAEAAACCAAAI=</HashCode>
+      <FileName>DTO\dtoShop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.DTO.dtoStand" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAEAAAAIAAAAAAAAgAQAAAACAgABAAAAAAgAAAQA=</HashCode>
+      <FileName>DTO\dtoStand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Bll.DTO.dtoWall" Collapsed="true">
+    <Position X="14.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAGAAAAIAAAAAAAAgAQAAAACAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>DTO\dtoWall.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Bll.Logic.I2Points" Collapsed="true">
+    <Position X="10" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Classes.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Bll.Logic.eMatMeaning" Collapsed="true">
+    <Position X="8.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAACAAAAAAAAAAAAAAAAAAgAEAAAAAAA=</HashCode>
+      <FileName>Logic\Classes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Bll.Logic.eTypeConnection" Collapsed="true">
+    <Position X="8.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAEAAAAAAA=</HashCode>
+      <FileName>Logic\Classes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

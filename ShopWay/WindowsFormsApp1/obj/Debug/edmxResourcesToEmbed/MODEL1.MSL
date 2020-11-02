@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ShopWayModelStoreContainer" CdmEntityContainer="ShopWayEntities1">
+    <EntitySetMapping Name="ConnectionGetAways">
+      <EntityTypeMapping TypeName="ShopWayModel.ConnectionGetAway">
+        <MappingFragment StoreEntitySet="ConnectionGetAway">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="CodeSource" ColumnName="CodeSource" />
+          <ScalarProperty Name="CodeDest" ColumnName="CodeDest" />
+          <ScalarProperty Name="Distance" ColumnName="Distance" />
+          <ScalarProperty Name="Nearest" ColumnName="Nearest" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ConnectionStands">
+      <EntityTypeMapping TypeName="ShopWayModel.ConnectionStand">
+        <MappingFragment StoreEntitySet="ConnectionStand">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="CodeSource" ColumnName="CodeSource" />
+          <ScalarProperty Name="CodeDest" ColumnName="CodeDest" />
+          <ScalarProperty Name="Distance" ColumnName="Distance" />
+          <ScalarProperty Name="Nearest" ColumnName="Nearest" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Getaways">
+      <EntityTypeMapping TypeName="ShopWayModel.Getaway">
+        <MappingFragment StoreEntitySet="Getaway">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="X" ColumnName="X" />
+          <ScalarProperty Name="Y" ColumnName="Y" />
+          <ScalarProperty Name="CodeShop" ColumnName="CodeShop" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Products">
+      <EntityTypeMapping TypeName="ShopWayModel.Product">
+        <MappingFragment StoreEntitySet="Product">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="Barcode" ColumnName="Barcode" />
+          <ScalarProperty Name="Shem" ColumnName="Shem" />
+          <ScalarProperty Name="Company" ColumnName="Company" />
+          <ScalarProperty Name="weight" ColumnName="weight" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductShelves">
+      <EntityTypeMapping TypeName="ShopWayModel.ProductShelf">
+        <MappingFragment StoreEntitySet="ProductShelf">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="CodeProduct" ColumnName="CodeProduct" />
+          <ScalarProperty Name="CodeShelf" ColumnName="CodeShelf" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductShops">
+      <EntityTypeMapping TypeName="ShopWayModel.ProductShop">
+        <MappingFragment StoreEntitySet="ProductShop">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="CodeProduct" ColumnName="CodeProduct" />
+          <ScalarProperty Name="CodeShop" ColumnName="CodeShop" />
+          <ScalarProperty Name="IsExist" ColumnName="IsExist" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Shelves">
+      <EntityTypeMapping TypeName="ShopWayModel.Shelf">
+        <MappingFragment StoreEntitySet="Shelf">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="CodeStand" ColumnName="CodeStand" />
+          <ScalarProperty Name="Num" ColumnName="Num" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Shops">
+      <EntityTypeMapping TypeName="ShopWayModel.Shop">
+        <MappingFragment StoreEntitySet="Shop">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="Shem" ColumnName="Shem" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Stands">
+      <EntityTypeMapping TypeName="ShopWayModel.Stand">
+        <MappingFragment StoreEntitySet="Stand">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="Xstart" ColumnName="Xstart" />
+          <ScalarProperty Name="Ystart" ColumnName="Ystart" />
+          <ScalarProperty Name="Xend" ColumnName="Xend" />
+          <ScalarProperty Name="Yend" ColumnName="Yend" />
+          <ScalarProperty Name="distance" ColumnName="distance" />
+          <ScalarProperty Name="CodeShop" ColumnName="CodeShop" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Walls">
+      <EntityTypeMapping TypeName="ShopWayModel.Wall">
+        <MappingFragment StoreEntitySet="Wall">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="CodeShop" ColumnName="CodeShop" />
+          <ScalarProperty Name="X1" ColumnName="X1" />
+          <ScalarProperty Name="Y1" ColumnName="Y1" />
+          <ScalarProperty Name="X2" ColumnName="X2" />
+          <ScalarProperty Name="Y2" ColumnName="Y2" />
+          <ScalarProperty Name="X3" ColumnName="X3" />
+          <ScalarProperty Name="Y3" ColumnName="Y3" />
+          <ScalarProperty Name="X4" ColumnName="X4" />
+          <ScalarProperty Name="Y4" ColumnName="Y4" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

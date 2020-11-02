@@ -1,0 +1,392 @@
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\WebApplication1.dll.config
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\WebApplication1.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\WebApplication1.pdb
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\csc.exe
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\csc.exe.config
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\csc.rsp
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\csi.exe
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\csi.exe.config
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\csi.rsp
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.AppContext.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Console.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.IO.Compression.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Security.Claims.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.ValueTuple.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\vbc.exe
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\vbc.exe.config
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\vbc.rsp
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\VBCSCompiler.exe
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\obj\Debug\WebApplication1.dll
+F:\גרסאות פרויקט\12\ShopWay\WebApplication1\obj\Debug\WebApplication1.pdb
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\WebApplication1.dll.config
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\WebApplication1.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\WebApplication1.pdb
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\csc.exe
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\csc.exe.config
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\csc.rsp
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\csi.exe
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\csi.exe.config
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\csi.rsp
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.AppContext.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Console.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.IO.Compression.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Security.Claims.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.ValueTuple.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\vbc.exe
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\vbc.exe.config
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\vbc.rsp
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\VBCSCompiler.exe
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\obj\Debug\WebApplication1.dll
+H:\גרסאות פרויקט\12\ShopWay\WebApplication1\obj\Debug\WebApplication1.pdb
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\WebApplication1.dll.config
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\WebApplication1.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\WebApplication1.pdb
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\csc.exe
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\csc.exe.config
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\csc.rsp
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\csi.exe
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\csi.exe.config
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\csi.rsp
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.AppContext.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Console.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.IO.Compression.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Security.Claims.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.ValueTuple.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\vbc.exe
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\vbc.exe.config
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\vbc.rsp
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\VBCSCompiler.exe
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\obj\Debug\WebApplication1.dll
+H:\גרסאות פרויקט\14\ShopWay\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\WebApplication1.dll.config
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\WebApplication1.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\WebApplication1.pdb
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\csc.exe
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\csc.exe.config
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\csc.rsp
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\csi.exe
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\csi.exe.config
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\csi.rsp
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.AppContext.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Console.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.IO.Compression.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Security.Claims.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.ValueTuple.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\vbc.exe
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\vbc.exe.config
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\vbc.rsp
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\VBCSCompiler.exe
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\obj\Debug\WebApplication1.dll
+F:\גרסאות פרויקט\14\ShopWay\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\WebApplication1.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Ruthie\Desktop\תכנות תשפ\פ-ר-ו-י-ק-ט\גרסאות פרויקט\19\ShopWay\WebApplication1\obj\Debug\WebApplication1.pdb
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\WebApplication1.dll.config
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\WebApplication1.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\WebApplication1.pdb
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\csc.exe
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\csc.exe.config
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\csc.rsp
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\csi.exe
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\csi.exe.config
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\csi.rsp
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\System.AppContext.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\System.Console.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\System.IO.Compression.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\System.Security.Claims.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\System.ValueTuple.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\vbc.exe
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\vbc.exe.config
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\vbc.rsp
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\VBCSCompiler.exe
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\obj\Debug\WebApplication1.dll
+H:\גרסאות פרויקט\20\ShopWay\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\WebApplication1.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Admin\Desktop\פרויקט פסי\29\ShopWay\WebApplication1\obj\Debug\WebApplication1.pdb
